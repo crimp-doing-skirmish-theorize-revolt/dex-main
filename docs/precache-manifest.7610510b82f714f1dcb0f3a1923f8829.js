@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a76f41404b60a996f0dc9a4878719c72",
+    "revision": "9ad314e09700868c08637acb6b77380a",
     "url": "./index.html"
   },
   {
-    "revision": "bd4cd096e3aa39c2d67e",
-    "url": "./static/css/2.323dda55.chunk.css"
+    "revision": "942fd746e2c3524ce55e",
+    "url": "./static/css/2.3895751f.chunk.css"
   },
   {
-    "revision": "a670025596cc26263432",
-    "url": "./static/css/main.22ccb4ed.chunk.css"
+    "revision": "a765c0408400d2f0670f",
+    "url": "./static/css/main.f440a6db.chunk.css"
   },
   {
-    "revision": "bd4cd096e3aa39c2d67e",
-    "url": "./static/js/2.e0e878e4.chunk.js"
+    "revision": "942fd746e2c3524ce55e",
+    "url": "./static/js/2.d7b25c60.chunk.js"
   },
   {
-    "revision": "36fc3fe251e0a476537fcd46c08356e9",
-    "url": "./static/js/2.e0e878e4.chunk.js.LICENSE.txt"
+    "revision": "e31c73fb3888b881dff3a82ea5fa2e15",
+    "url": "./static/js/2.d7b25c60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a670025596cc26263432",
-    "url": "./static/js/main.be884639.chunk.js"
+    "revision": "a765c0408400d2f0670f",
+    "url": "./static/js/main.186efaf5.chunk.js"
   },
   {
     "revision": "8049fe0a1a69c67a7ca5",
@@ -64,10 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/cope.190104cf.png"
   },
   {
-    "revision": "605c9bd62282bb33f54a0d50a750b0a9",
-    "url": "./static/media/dxl.605c9bd6.png"
-  },
-  {
     "revision": "5d33d61df0aa9b0ecad633029345b645",
     "url": "./static/media/ecosystem-pool.5d33d61d.png"
   },
@@ -92,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/gb.c0676c2c.svg"
   },
   {
-    "revision": "51c934afb61ee321ae0d9f05a4b432e9",
-    "url": "./static/media/getFetch.51c934af.cjs"
+    "revision": "013f0b90a4cae7b8bbf13e3fd9e7dc4a",
+    "url": "./static/media/getFetch.013f0b90.cjs"
   },
   {
     "revision": "44b6bf8345cba538a051c9aa68d44cf3",
@@ -140,10 +136,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/nibbio-logo.214060df.png"
   },
   {
-    "revision": "1ef55f8fa3405a801818d7e70b670a8e",
-    "url": "./static/media/orca.1ef55f8f.svg"
-  },
-  {
     "revision": "35fcc73e6c0b39128b12da2cd9eb7291",
     "url": "./static/media/oxy.35fcc73e.svg"
   },
@@ -186,10 +178,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4f45d25374e9423ed9cf1eb8a19793b3",
     "url": "./static/media/srm.4f45d253.svg"
-  },
-  {
-    "revision": "d1331eff547983e1110f33361e9e08b2",
-    "url": "./static/media/sunny.d1331eff.jpeg"
   },
   {
     "revision": "e2b35e99648efddaa0a1b13d9d2c12e8",
